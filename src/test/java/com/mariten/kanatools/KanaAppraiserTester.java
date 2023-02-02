@@ -9,3 +9,5 @@ public abstract class KanaAppraiserTester
         KanaAppraiser kana_evaluator_object = new KanaAppraiser();
     }
 }
+
+// Test code
